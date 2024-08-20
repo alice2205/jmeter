@@ -1,12 +1,12 @@
 **Задание №3. JMeter итоговое задание HelpDesk**
 Используемые инструменты:
-  браузер Edge;
-  JMeter;
-  InfluxDB;
-  Grafana;
-  VM;
-  Helpdesk;
-  Telegraf.
+  1) браузер Edge;
+  2) JMeter;
+  3) InfluxDB;
+  4) Grafana;
+  5) VM;
+  6) Helpdesk;
+  7) Telegraf.
 Сценарии: 
   1) Авторизация админа;
   2) Создание пользователя;
